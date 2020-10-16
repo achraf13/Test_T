@@ -1,0 +1,14 @@
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form1.resources
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Properties.Resources.resources
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.csproj.GenerateResource.Cache
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\BDDStock.sdf
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.exe
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.pdb
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\BackgroundWorker.dll
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\Newtonsoft.Json.Compact.dll
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.exe
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.pdb
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Screen.Accueil.resources
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Screen.AjouterProduit.resources
+D:\FreelanceTest\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Screen.ListeProduits.resources
